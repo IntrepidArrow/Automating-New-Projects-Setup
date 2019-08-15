@@ -1,0 +1,16 @@
+The following are the steps involved when I make a new project and link it to the corresponding remote repository on Github.
+Method of implementation:
+
+TODO: Navigate to workspace: PythonLearningCurve directory 
+TODO: Make a new directory for "New Project"
+TODO: Navigate into new directory
+TODO: Git initialize directory by "git init" command 
+TODO: Navigate to github on browser and login
+TODO: Create new repository
+TODO: Copy the link to remote repository
+TODO: Connect local directory to remote using the link 
+TODO: Creat README.md/ README file 
+TODO: git add .
+TODO: git commit -m " " 
+TODO: git push 
+TODO: Open VS Code using "code ." command
