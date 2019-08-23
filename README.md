@@ -10,7 +10,8 @@ Python modules needed:
 ```bash
 git clone "https://github.com/IntrepidArrow/Automating-New-Projects-Setup.git"
 cd Automating-New-Projects-Setup
-source 
-Then go to create.py and set the username and password to be your username and password.
-Also make sure to change all directories to your directories so it should be '/Users/<your username>/path/to/your/project'
+Go to localNav.py and set the workspace directory, username and password to be your Github username and password
+source commands.sh or . commands.sh in bash terminal 
+
+Finally, to run the script type in 'create <Name of project>'
 ```
