@@ -36,4 +36,4 @@ create() {
 }
 ```
 
-The advantage of the alternate method is that you do not need to navigate to the Automating-New-Projects-Setup directory and dot source the command.sh shell script. This method is permament and readily available for every bash session.
+The advantage of the alternate method is that you do not need to navigate to the Automating-New-Projects-Setup directory and dot source the command.sh shell script for every new bash session. This method is permament and make the "create" function readily available for every bash session.
