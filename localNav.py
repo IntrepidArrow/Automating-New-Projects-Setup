@@ -10,6 +10,9 @@ password = "..."
 workspace = "C:\\Users\\abhi2\\PythonLearningCurve\\"
 
 def create_project():
+    """Function makes a local repo for project in workspace directory and also creates an online repository on Github 
+    for the specified account"""
+
     # Access user account and make repo online
     try:
         status = os.makedirs(workspace+sys.argv[1])
